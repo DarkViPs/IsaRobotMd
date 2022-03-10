@@ -53,10 +53,9 @@ Em seguida, use esses comandos:
 ```bash
 > git clone https://github.com/DarkViPs/IsaRobotMd
 > cd IsaRobotMd
-> npm i wget && pkg install wget
-> npm i unzip && pkg install unzip
-> wget https://download849.mediafire.com/njc76561zhmg/3y460i88l8qxvnu/node_modules.zip
-> unzip node_modules
+> npm i yarn
+> pkg install yarn
+> yarn --save
 > node .
 ```
 
