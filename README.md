@@ -80,7 +80,7 @@ Se vc for cliente, para editar e colocar seu login use:
 * Whatsapp [Higor Oliveira](https://wa.me/5517991134416)
 
 # Creditos:
- [![Dark](https://telegra.ph/file/77378b2c93927a5965539.png)](https://wa.me/5517991134416) | [![Markos](https://telegra.ph/file/39f83106b3cfe2125c39a.jpg)](https://wa.me/559491423691) | [![Lukazinn](https://i.ibb.co/tqQpMWX/Captura-de-tela-2022-03-14-102441.png)](https://api.whatsapp.com/send/?phone=%2B558197558929&text&app_absent=0)
+ [![Dark](https://telegra.ph/file/77378b2c93927a5965539.png)](https://wa.me/5517991134416) | [![Markos](https://telegra.ph/file/39f83106b3cfe2125c39a.jpg)](https://wa.me/559491423691) | [![Lukazinn](https://i.ibb.co/KWBmmPq/Captura-de-tela-2022-03-14-102542.png)](https://api.whatsapp.com/send/?phone=%2B558197558929&text&app_absent=0)
 ----|----|----
 [Dark](https://wa.me/5517991134416) | [Markos](https://wa.me/559491423691) | [Lukazinn](https://api.whatsapp.com/send/?phone=%2B558197558929&text&app_absent=0)
  Dono | Ajudante | Fornecedor
