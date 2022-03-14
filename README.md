@@ -80,10 +80,10 @@ Se vc for cliente, para editar e colocar seu login use:
 * Whatsapp [Higor Oliveira](https://wa.me/5517991134416)
 
 # Creditos:
- [![Dark](https://telegra.ph/file/77378b2c93927a5965539.png)](https://wa.me/5517991134416) | [![Markos](https://telegra.ph/file/39f83106b3cfe2125c39a.jpg)](https://wa.me/559491423691) | [![Fatih](https://telegra.ph/file/bff32373b508e69b611a9.png)](https://github.com/DikaArdnt | [![Lukazinn](https://dl3.pushbulletusercontent.com/Q3fxtMUTLs6IzwX0ExrLeoJyRitQNVgU/IMG_20220314_101726.jpg)](https://api.whatsapp.com/send/?phone=%2B558197558929&text&app_absent=0)
+ [![Dark](https://telegra.ph/file/77378b2c93927a5965539.png)](https://wa.me/5517991134416) | [![Markos](https://telegra.ph/file/39f83106b3cfe2125c39a.jpg)](https://wa.me/559491423691) | [![Lukazinn](https://dl3.pushbulletusercontent.com/Q3fxtMUTLs6IzwX0ExrLeoJyRitQNVgU/IMG_20220314_101726.jpg)](https://api.whatsapp.com/send/?phone=%2B558197558929&text&app_absent=0)
 ----|----|----
-[Dark](https://wa.me/5517991134416) | [Markos](https://wa.me/559491423691) | [Fatih](https://github.com/DikaArdnt | [Lukazinn](https://api.whatsapp.com/send/?phone=%2B558197558929&text&app_absent=0)
- Dono | Ajudante | Base | Fornecedor
+[Dark](https://wa.me/5517991134416) | [Markos](https://wa.me/559491423691) | [Lukazinn](https://api.whatsapp.com/send/?phone=%2B558197558929&text&app_absent=0)
+ Dono | Ajudante | Fornecedor
 
 
 
